@@ -1,0 +1,1 @@
+Todo-list criado com o suporte de css e javascript onde é possível incluir em uma lista de tarefas todo o tipo de escrita. Com opções de ckecked e exclusão com uma img em bakcgrtound e ícones de ckeck e exclusão responsivos
